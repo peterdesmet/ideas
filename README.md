@@ -8,6 +8,5 @@ I use this repository to [note ideas](https://github.com/peterdesmet/ideas/issue
 
 In case I'm wondering what to do next:
 
-* [Open issues assigned to me](https://github.com/search?o=desc&q=state%3Aopen+assignee%3Apeterdesmet&ref=searchresults&s=updated&type=Issues&utf8=%E2%9C%93)
-* [Open issues involving me](https://github.com/search?o=desc&q=state%3Aopen+involves%3Apeterdesmet&ref=searchresults&s=updated&type=Issues&utf8=%E2%9C%93)
+* [My issues](https://github.com/issues)
 * [My starred repositories](https://github.com/stars)
